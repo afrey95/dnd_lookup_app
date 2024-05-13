@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <GoogleOAuthProvider clientId="<insert here client id>">
+        <GoogleOAuthProvider clientId="227194517241-7ja3o4kt1b4hc111u76cl5pbf08b40i9.apps.googleusercontent.com">
           <Auth></Auth>
         </GoogleOAuthProvider>
       </header>
